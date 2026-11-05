@@ -1,0 +1,4 @@
+app:
+  name: Healthcare EMR Ecosystem
+  message: Config Server is working successfully!
+  version: 1.0
